@@ -30,7 +30,7 @@
 >- **django-tailwind***
 >- **django-allauth**
 >- **django-htmx**
->- **google**
+>- **openai**
 >- ***google-speach-to-text**
 >- ***google-text-to-speach**
 ****
